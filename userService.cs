@@ -21,8 +21,8 @@ namespace Modul5_Kel7
             };
             histories = new string[2, 4]
             {
-                {"Nama1elompokxx@gamil.com", "Fisika Dasar", "Dasar Komputer dan Pemrograman", "25-04-2020" },
-                {"Nama2kelompokxx@gamil.com", "Dasar Komputer dan Pemrograman", "Konsep Jaringan Komputer", "25-04-2020" }
+                {"Bowokelompok07@gmail.com", "Fisika Dasar", "Dasar Komputer dan Pemrograman", "25-04-2020" },
+                {"Gustikelompok07@gmail.com", "Dasar Komputer dan Pemrograman", "Konsep Jaringan Komputer", "25-04-2020" }
             };
         }
 
